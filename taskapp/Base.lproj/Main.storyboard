@@ -71,7 +71,7 @@
                                     <segue destination="ZmU-ru-99a" kind="show" id="tN6-mf-e0d"/>
                                 </connections>
                             </barButtonItem>
-                            <barButtonItem title="Item" id="drp-sV-OtQ">
+                            <barButtonItem title="カテゴリー検索" id="drp-sV-OtQ">
                                 <connections>
                                     <action selector="findButton:" destination="BYZ-38-t0r" id="ri7-07-d21"/>
                                 </connections>
